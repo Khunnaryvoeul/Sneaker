@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sneaker</string>
+    <string name="checkout">Checkout</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="total">Total:</string>
+    <string name="your_order_has_been_placed">Your Order has been placed</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="Textview">TextView</string>
+    <string name="T0D0">TODO</string>
+    <string name="TextView">TextView</string>
+    <string name="TextView1">TextView</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetuer_adipiscing_elit_aenean_commodo_ligula">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula</string>
+    <string name="T0D01">TODO</string>
+    <string name="T0D02">TODO</string>
+    <string name="TextView2">TextView</string>
+    <string name="T0D03">TODO</string>
+    <string name="T0D04">TODO</string>
+    <string name="T0D05">TODO</string>
+    <string name="TextView4">TextView</string>
+    <string name="TextView5">TextView</string>
+    <string name="_1">1</string>
+    <string name="T0D06">TODO</string>
+    <string name="TextView6">TextView</string>
+    <string name="T0D07">TODO</string>
+    <string name="TextView7">TextView</string>
+    <string name="_50">50$</string>
+    <string name="razorpay">Razorpay</string>
+</resources>
